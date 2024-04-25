@@ -24,7 +24,7 @@
 
 ### Minesweeper
 
-<img src="photos/minesweeper1.png" width="400"> <img src="photos/minesweeper2.png" width="400"> <img src="photos/minesweeper3.png" width="400"> 
+<img src="https://github.com/SergiK7/photos/blob/main/minesweeper1.png" width="400"> <img src="https://github.com/SergiK7/photos/blob/main/minesweeper2.png" width="400"> <img src="[photos/minesweeper3.png](https://github.com/SergiK7/photos/blob/main/minesweeper2.png)" width="400"> 
 
 Project link: [https://github.com/SergiK7/Minesweeper] (https://github.com/SergiK7/Minesweeper)
 
