@@ -19,3 +19,5 @@
 * 🤝 Let's connect:
   - 📩 My email: sergicarapuig@gmail.com
   - 🔗 [My Linked In](https://www.linkedin.com/in/sergi-carapuig-masnou/)
+
+## 🚀 Projects
