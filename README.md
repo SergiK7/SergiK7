@@ -21,3 +21,10 @@
   - 🔗 [My Linked In](https://www.linkedin.com/in/sergi-carapuig-masnou/)
 
 ## 🚀 Projects
+
+### Minesweeper
+
+<img src="photos/minesweeper1.png" width="400"> <img src="photos/minesweeper2.png" width="400"> <img src="photos/minesweeper3.png" width="400"> 
+
+Project link: [https://github.com/SergiK7/Minesweeper] (https://github.com/SergiK7/Minesweeper)
+
