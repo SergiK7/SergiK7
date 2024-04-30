@@ -36,7 +36,7 @@ Created a Tic Tac Toe game in Python where the player competes against an artifi
 
 <img src="https://github.com/SergiK7/photos/blob/main/tic1.png" width="400"> <img src="https://github.com/SergiK7/photos/blob/main/tic2.png" width="400"> <img src="https://github.com/SergiK7/photos/blob/main/tic4.png" width="400"> <img src="https://github.com/SergiK7/photos/blob/main/tic3.png" width="400">
 
-Project link: [[https://github.com/SergiK7/Minesweeper](https://github.com/SergiK7/Tic-Tac-Toe)]
+Project link: [https://github.com/SergiK7/Tic-Tac-Toe](https://github.com/SergiK7/Tic-Tac-Toe)
 
 
 
