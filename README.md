@@ -30,3 +30,13 @@ Developed a Minesweeper game in Python where the player is an artificial intelli
 
 Project link: [https://github.com/SergiK7/Minesweeper](https://github.com/SergiK7/Minesweeper)
 
+### Tic Tac Toe
+
+Created a Tic Tac Toe game in Python where the player competes against an artificial intelligence agent
+
+<img src="https://github.com/SergiK7/photos/blob/main/tictactoe1.png" width="400"> <img src="https://github.com/SergiK7/photos/blob/main/tictactoe2.png" width="400"> <img src="https://github.com/SergiK7/photos/blob/main/tictactoe3.png" width="400"> <img src="https://github.com/SergiK7/photos/blob/main/tictactoe4.png" width="400">
+
+Project link: [[https://github.com/SergiK7/Minesweeper](https://github.com/SergiK7/Tic-Tac-Toe)]
+
+
+
