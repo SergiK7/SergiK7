@@ -41,7 +41,9 @@ Project link: [https://github.com/SergiK7/Tic-Tac-Toe](https://github.com/SergiK
 ### Sudoku Solver
 
 The project creates a Sudoku solver in Python using backtracking algorithm and additional strategies for efficient puzzle solving
+
 <img src="https://github.com/SergiK7/photos/blob/main/Captura%20de%20pantalla%202024-05-03%20165221.png" width="400"> <img src="https://github.com/SergiK7/photos/blob/main/Captura%20de%20pantalla%202024-05-03%201719489.png" width="400"> 
+
 Project link: [https://github.com/SergiK7/data-optional-sudoku-solver](https://github.com/SergiK7/data-optional-sudoku-solver)
 
 
